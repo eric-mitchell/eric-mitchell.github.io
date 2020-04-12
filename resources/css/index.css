@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:100,200,600');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400');
+
+* {
+    font-family: Montserrat, sans-serif;
+    color: #888888;
+    text-align: center;
+    background-color: #fbfbfb;
+}
+
+h1 {
+    font-family: Montserrat, sans-serif;
+    color: #bfbfbf;
+}
+
+.subheader {
+    font-family: Montserrat, sans-serif;
+    font-size: 22px;
+}
+
+h4 {
+    font-size: 14px;
+}
+
+.centerbox {
+    clear: both;
+    width: 55%;
+    margin: 0 auto;
+    padding-top: 6px;
+    text-align: center;
+}
+
+.entry {
+    font-family: Raleway, sans-serif;
+    width: 55%;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.title {
+    font-family: inherit;
+    float: left;
+    font-weight: 600;
+    font-size: 23px;
+}
+
+.author {
+    font-family: inherit;
+    float: right;
+    font-weight: 200;
+    font-size: 23px;
+}
+
+p {
+    font-family: Montserrat, sans-serif;
+    font-size: 17px;
+    text-align: justify;
+    color: #666666;
+    line-height: 1.55;
+    margin-top: 0;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: inherit;
+}
+
+q {
+    font-family: Montserrat, sans-serif;
+}
+
+blockquote {
+    text-align: justify;
+    line-height: 1.25;
+}
