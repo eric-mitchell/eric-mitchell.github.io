@@ -22,11 +22,9 @@ affiliations:
         email: "eric.mitchell@cs.stanford.edu"
 ---
 
-I am a third-year PhD student in Stanford's CS department, where I am fortunate to be advised by [Chelsea Finn][1] and [Chris Manning][2] and to be supported by the [Knight-Hennessy Graduate Fellowship][KH]. I am affiliated with the [Stanford AI Lab][3] and [Stanford NLP Group][4]. 
+I am a third-year PhD student in Stanford's CS department, where I'm fortunate to be advised by [Chelsea Finn][1] and [Chris Manning][2]. My research relates to making the knowledge representations in deep learning systems more malleable and accessible for problems in natural language, robotics, and vision. I am grateful to be supported by the [Knight-Hennessy Graduate Fellowship][KH].
 
-My research relates to making the knowledge representations in deep learning systems more flexible and accessible for problems in natural language, robotics, and vision. My work shows up in machine learning ([ICLR][A], [ICML][B], [AAAI][C]) and robotics venues ([ICRA][D], [IROS][E]).
-
-Earlier, I was a research engineer at [Samsung's AI Center][5] in New York City, where I learned constantly from [Volkan Isler][6], [Daniel D. Lee][7], and many other wonderful (and patient) people. As an undergraduate, I spent many hours in the [Seung Lab][8] at the [Princeton Neuroscience Institute][9] before completing my thesis under the guidance of [H. Sebastian Seung][10]. I also competed for [Princeton's varsity men's golf team][X].
+Earlier, I was a research engineer at [Samsung's AI Center][5] in New York City, where I learned constantly from [Volkan Isler][6], [Daniel D. Lee][7], and many other wonderful (and patient) people. As an undergraduate, I completed my thesis under the guidance of [H. Sebastian Seung][10] after many hours in the [Seung Lab][8] at the [Princeton Neuroscience Institute][9]. I also competed for [Princeton's varsity men's golf team][X].
 
 In my free time, I make music for the guitar and voice. I enjoy the outdoors, particularly golf courses and mountains.
 
