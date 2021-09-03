@@ -13,6 +13,7 @@ publication: "ICML"
 
 links:
     arxiv: https://arxiv.org/abs/2008.06043
-    code: https://macaw-metarl.github.io
+    code: https://github.com/eric-mitchell/macaw
+    site: https://sites.google.com/view/macaw-metarl/home
     video: https://www.youtube.com/watch?v=MbrwK-7yZ3M
 ---
