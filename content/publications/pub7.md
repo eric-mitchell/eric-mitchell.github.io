@@ -12,7 +12,7 @@ date: "2021-12-01"
 publication: "Preprint."
 
 links:
-    arxiv: https://sites.google.com/view/mend-editing
+    arxiv: https://arxiv.org/abs/2110.11309
     code: https://github.com/eric-mitchell/mend
     site: https://sites.google.com/view/mend-editing
 ---
