@@ -17,12 +17,14 @@ socials:
 
 affiliations:
     - affiliation:
-        title: "Ph.D."
+        title: "Ph.D. Student"
         name: "Stanford University"
         email: "eric.mitchell@cs.stanford.edu"
 ---
 
-I am a third-year PhD student in Stanford's CS department, where I'm fortunate to be advised by [Chelsea Finn][1] and [Chris Manning][2]. The goal of my research is to make the knowledge embedded in artificial neural networks more malleable and accessible, mostly for problems relating to language and/or robotics. I am grateful to be supported by a [Knight-Hennessy Graduate Fellowship][KH]. You can find my CV [here][CV].
+I am currently a third-year PhD student in Stanford's CS department, where I'm fortunate to be advised by [Chelsea Finn][1] and [Chris Manning][2]. The goal of my research is to make the knowledge embedded in neural networks more reusable and updatable in an ever-changing world. I think a lot about meta-learning and continual learning, particularly in large neural networks. I am grateful to be supported by a [Knight-Hennessy Graduate Fellowship][KH].
+
+You can find my CV [here][CV].
 
 Earlier, I was a research engineer at [Samsung's AI Center][5] in New York City, where I learned constantly from [Volkan Isler][6], [Daniel D. Lee][7], and many other wonderful (and patient) people. As an undergraduate, I completed my thesis under the guidance of [H. Sebastian Seung][10] after many hours in the [Seung Lab][8] at the [Princeton Neuroscience Institute][9]. I also competed for [Princeton's varsity men's golf team][X].
 
