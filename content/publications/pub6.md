@@ -8,7 +8,7 @@ authors:
 - Silvio Savarese
 - Chelsea Finn
 
-date: "2021-09-02"
+date: "2022-01-01"
 
 publication: "CoRL"
 

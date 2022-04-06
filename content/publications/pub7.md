@@ -7,9 +7,9 @@ authors:
 - Chelsea Finn
 - Christopher D Manning
 
-date: "2021-12-01"
+date: "2022-01-05"
 
-publication: "Preprint."
+publication: "ICLR"
 
 links:
     arxiv: https://arxiv.org/abs/2110.11309
