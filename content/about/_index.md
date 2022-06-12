@@ -22,7 +22,9 @@ affiliations:
         email: "eric.mitchell@cs.stanford.edu"
 ---
 
-I am currently a third-year PhD student in Stanford's CS department, where I'm fortunate to be advised by [Chelsea Finn][1] and [Chris Manning][2]. The goal of my research is to make the knowledge embedded in neural networks more reusable and updatable in an ever-changing world. I think a lot about meta-learning and continual learning, particularly in large neural networks. I am grateful to be supported by a [Knight-Hennessy Graduate Fellowship][KH].
+**Summer 2022 update:** I am currently a research scientist intern at DeepMind in London. You can reach me by email (above), but also iMessage or Whatsapp (through my US phone number) and Facebook Messenger. I will return to Stanford for the fall quarter of the 2022-2023 academic year.
+
+I recently completed the third year of my PhD student in Stanford's CS department, where I'm fortunate to be advised by [Chelsea Finn][1] and [Chris Manning][2]. The goal of my research is to make the knowledge embedded in neural networks more reusable and updatable in an ever-changing world. I think a lot about meta-learning and continual learning, particularly in large neural networks. I am grateful to be supported by a [Knight-Hennessy Graduate Fellowship][KH].
 
 You can find my CV [here][CV].
 
