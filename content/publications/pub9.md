@@ -12,5 +12,6 @@ date: "2022-06-01"
 publication: "ICML"
 
 links:
+    arxiv: https://arxiv.org/abs/2206.06520
     site: https://sites.google.com/view/serac-editing
 ---
