@@ -22,13 +22,13 @@ affiliations:
         email: "eric.mitchell@cs.stanford.edu"
 ---
 
-**Summer 2022 update:** I am currently a research scientist intern at DeepMind in London. You can reach me by email (above), but also iMessage or Whatsapp (through my US phone number) and Facebook Messenger. I will return to Stanford for the fall quarter of the 2022-2023 academic year.
-
-I recently completed the third year of my PhD student in Stanford's CS department, where I'm fortunate to be advised by [Chelsea Finn][1] and [Chris Manning][2]. The goal of my research is to make the knowledge embedded in neural networks more reusable and updatable in an ever-changing world. I think a lot about meta-learning and continual learning, particularly in large neural networks. I am grateful to be supported by a [Knight-Hennessy Graduate Fellowship][KH].
+I am a fourth-year PhD student in Stanford's CS department, where I'm fortunate to be advised by [Chelsea Finn][1] and [Christopher D. Manning][2]. The goal of my research is to make the knowledge embedded in neural networks more reusable and updatable in an ever-changing world. I'm interested in deep learning generally, as well as meta-learning and continual learning more specifically, particularly in the context large language models (or 'Foundation Models'). Much of my PhD has been generously supported by a [Knight-Hennessy Graduate Fellowship][KH].
 
 You can find my CV [here][CV].
 
-Earlier, I was a research engineer at [Samsung's AI Center][5] in New York City, where I learned constantly from [Volkan Isler][6], [Daniel D. Lee][7], and many other wonderful (and patient) people. As an undergraduate, I completed my thesis under the guidance of [H. Sebastian Seung][10] after many hours in the [Seung Lab][8] at the [Princeton Neuroscience Institute][9]. I also competed for [Princeton's varsity men's golf team][X].
+In the summer of 2022, I was a research scientist intern at DeepMind, where I was lucky to spend four months working with [Junyoung Chung][junyoung], [Nate Kushman][nate], and [Aäron van den Oord][aaron].
+
+Before my PhD, I was a research engineer at [Samsung's AI Center][5] in New York City, where I learned constantly from [Volkan Isler][6], [Daniel D. Lee][7], and many other wonderful (and patient) people. As an undergraduate, I completed my thesis under the guidance of [H. Sebastian Seung][10] after many hours in the [Seung Lab][8] at the [Princeton Neuroscience Institute][9]. I also competed for [Princeton's varsity men's golf team][X].
 
 In my free time, I make music for guitar and voice. I enjoy the outdoors, particularly golf courses and mountains.
 
@@ -53,3 +53,6 @@ In my free time, I make music for guitar and voice. I enjoy the outdoors, partic
 [F]: https://www.robot-learning.org
 [X]: https://twitter.com/princetongolf
 [CV]: cv.pdf
+[junyoung]: https://sites.google.com/view/junyoung-ai/
+[nate]: http://www.kushman.org/
+[aaron]: https://avdnoord.github.io/homepage/
