@@ -10,6 +10,8 @@ authors:
 
 date: "2022-05-31"
 
-publication: "Preprint (coming soon)"
+publication: "ICML Workshop on Pre-training"
+links:
+    arxiv: https://openreview.net/pdf?id=fYPC0TnrItR
 
 ---
