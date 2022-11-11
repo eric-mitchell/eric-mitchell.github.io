@@ -10,7 +10,7 @@ a {
 
 a:hover {
     text-decoration: underline;
-    color: #050517;
+    color: #8C1515;
 }
 
 h2 code {
@@ -140,6 +140,11 @@ h2 code {
     margin-top: 1.5%;
 }
 
+.publication .section-1 .publication-title {
+    font-weight: bold;
+    font-size: 1.1em;
+}
+
 .publication .section-1 .publication-date {
     font-family: 'Ubuntu Mono', serif;
 }
@@ -159,11 +164,12 @@ h2 code {
 .publication .section-3 {
     margin-top: -.5%;
     font-family: 'Ubuntu Mono', serif;
-    text-decoration: none;
+    /* text-decoration: none; */
 }
 
 .publication .section-3 a{
-    padding: .15%;
+    padding: .2%;
+    margin-left: -.2%;
 }
 
 .publication .section-3 a:hover {
