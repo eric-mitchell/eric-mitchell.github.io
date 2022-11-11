@@ -15,7 +15,6 @@ a:hover {
 
 h2 code {
   font-family: Consolas,"courier new";
-  /* background-color: #f1f1f1; */
   background-color:  #8C1515;;
   color: white;
   padding: 2px;
@@ -164,7 +163,7 @@ h2 code {
 .publication .section-3 {
     margin-top: -.5%;
     font-family: 'Ubuntu Mono', serif;
-    /* text-decoration: none; */
+    text-decoration: none;
 }
 
 .publication .section-3 a{
