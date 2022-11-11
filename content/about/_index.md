@@ -26,7 +26,7 @@ I am a fourth-year PhD student in Stanford's CS department, where I'm fortunate 
 
 You can find my CV [here][CV].
 
-In the summer of 2022, I was a research scientist intern at DeepMind, where I was lucky to spend four months working with [Junyoung Chung][junyoung], [Nate Kushman][nate], and [Aäron van den Oord][aaron].
+In the summer of 2022, I was a research scientist intern at DeepMind in London, where I was lucky to spend four months working with [Junyoung Chung][junyoung], [Nate Kushman][nate], and [Aäron van den Oord][aaron].
 
 Before my PhD, I was a research engineer at [Samsung's AI Center][5] in New York City, where I learned constantly from [Volkan Isler][6], [Daniel D. Lee][7], and many other wonderful (and patient) people. As an undergraduate, I completed my thesis under the guidance of [H. Sebastian Seung][10] after many hours in the [Seung Lab][8] at the [Princeton Neuroscience Institute][9]. I also competed for [Princeton's varsity men's golf team][X].
 
