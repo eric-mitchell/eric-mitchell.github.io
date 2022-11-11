@@ -12,5 +12,5 @@ date: "2020-12-01"
 publication: "ICRA"
 
 links:
-    arxiv: https://arxiv.org/abs/1910.02066
+    pdf: https://arxiv.org/abs/1910.02066
 ---

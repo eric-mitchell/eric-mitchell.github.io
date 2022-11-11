@@ -8,6 +8,6 @@ date: "2021-08-15"
 publication: "Whitepaper"
 
 links:
-    arxiv: https://arxiv.org/abs/2108.07258
+    pdf: https://arxiv.org/abs/2108.07258
 ---
 

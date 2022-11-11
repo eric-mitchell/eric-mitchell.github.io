@@ -8,5 +8,5 @@ date: "2021-08-05"
 publication: "Preprint"
 
 links:
-    bioarxiv: https://www.biorxiv.org/content/10.1101/2021.08.04.455162v1.full
+    pdf: https://www.biorxiv.org/content/10.1101/2021.08.04.455162v1.full
 ---

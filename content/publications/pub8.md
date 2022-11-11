@@ -12,6 +12,6 @@ date: "2022-05-31"
 
 publication: "ICML Workshop on Pre-training"
 links:
-    arxiv: https://openreview.net/pdf?id=fYPC0TnrItR
+    pdf: https://openreview.net/pdf?id=fYPC0TnrItR
 
 ---

@@ -1,6 +1,5 @@
 ---
-title: "Enhancing Self-Consistency and Performance of
-Pretrained Language Models with NLI"
+title: "Enhancing Self-Consistency and Performance of Pretrained Language Models with NLI"
 
 authors:
 - Eric A Mitchell
@@ -14,9 +13,9 @@ authors:
 
 date: "2022-10-01"
 
-publication: "EMNLP"
+publication: "EMNLP Oral (<4% of submitted papers)"
 
 links:
-    arxiv: https://ericmitchell.ai/concord.pdf
+    pdf: https://ericmitchell.ai/concord.pdf
     site: https://ericmitchell.ai/emnlp-2022-concord/
 ---

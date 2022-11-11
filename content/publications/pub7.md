@@ -12,7 +12,7 @@ date: "2022-01-05"
 publication: "ICLR"
 
 links:
-    arxiv: https://arxiv.org/abs/2110.11309
-    code: https://github.com/eric-mitchell/mend
+    pdf: https://arxiv.org/abs/2110.11309
+    repo: https://github.com/eric-mitchell/mend
     site: https://sites.google.com/view/mend-editing
 ---

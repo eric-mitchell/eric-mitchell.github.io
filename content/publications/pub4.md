@@ -11,5 +11,5 @@ date: "2020-08-01"
 publication: "ICLR"
 
 links:
-    arxiv: https://arxiv.org/abs/1907.10388
+    pdf: https://arxiv.org/abs/1907.10388
 ---

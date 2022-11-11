@@ -8,7 +8,7 @@ content_type: 'publications'
 section_settings:
     show_section: true
     title: 'Recent Papers'
-    subtitle: 'See Google Scholar for the latest'
+    # subtitle: 'See Google Scholar for the latest'
 ---
 
 home/publications.md
