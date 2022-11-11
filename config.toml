@@ -1,7 +1,7 @@
 baseURL = "https://ericmitchell.ai/"
 languageCode = "en-us"
 theme = "avicenna"
-title = "Eric A Mitchell"
+title = "Eric Mitchell"
 
 [params]
 # for the copy-right section of your page

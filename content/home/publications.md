@@ -7,7 +7,7 @@ weight: 3
 content_type: 'publications'
 section_settings:
     show_section: true
-    title: 'Recent Papers'
+    title: 'Research'
     # subtitle: 'See Google Scholar for the latest'
 ---
 

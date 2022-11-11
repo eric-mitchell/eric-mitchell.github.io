@@ -2,7 +2,7 @@
 title: "Geodesic-HOF: 3D Reconstruction Without Cutting Corners"
 authors:
 - Ziyun Wang
-- Eric A Mitchell
+- Eric Mitchell
 - Volkan Isler
 - Daniel D Lee
 

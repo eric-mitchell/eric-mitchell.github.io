@@ -1,7 +1,7 @@
 ---
 title: "Fast Model Editing at Scale"
 authors:
-- Eric A Mitchell
+- Eric Mitchell
 - Charles Lin
 - Antoine Bosselut
 - Chelsea Finn
@@ -14,5 +14,5 @@ publication: "ICLR"
 links:
     pdf: https://arxiv.org/abs/2110.11309
     repo: https://github.com/eric-mitchell/mend
-    site: https://sites.google.com/view/mend-editing
+    website: https://sites.google.com/view/mend-editing
 ---

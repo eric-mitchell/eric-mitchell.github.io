@@ -2,7 +2,7 @@
 title: "Higher Order Function Networks for View Planning and Multi-View Reconstruction"
 authors:
 - Selim Engin
-- Eric A Mitchell
+- Eric Mitchell
 - Daewon Lee
 - Volkan Isler
 - Daniel D Lee

@@ -1,7 +1,7 @@
 ---
 title: "Higher-Order Function Networks for Learning Composable 3D Object Representations"
 authors:
-- Eric A Mitchell
+- Eric Mitchell
 - Selim Engin
 - Volkan Isler
 - Daniel D Lee
