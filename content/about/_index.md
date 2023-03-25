@@ -10,7 +10,7 @@ profile_picture: "profile.png"
 blog: false
 
 socials:
-    twitter: "_eric_mitchell_"
+    twitter: "ericmitchellai"
     github: "eric-mitchell"
     linkedin: "ericanthonymitchell"
     google_scholar: "citations?user=q77J4fgAAAAJ&hl=en"
@@ -22,7 +22,7 @@ affiliations:
         email: "eric.mitchell@cs.stanford.edu"
 ---
 
-I am a fourth-year PhD student in Stanford's CS department, where I'm fortunate to be advised by [Chelsea Finn][1] and [Christopher D. Manning][2]. The goal of my research is to make the knowledge embedded in neural networks more reusable and updatable in an ever-changing world. I'm interested in deep learning generally, as well as meta-learning and continual learning more specifically, particularly in the context large language models (or 'Foundation Models'). Much of my PhD has been generously supported by a [Knight-Hennessy Graduate Fellowship][KH].
+I am a fourth-year PhD student in Stanford's CS department, where I'm fortunate to be advised by [Chelsea Finn][1] and [Christopher D. Manning][2]. The goal of my research is to build algorithms that make foundation models, particularly language models, safer and easier to use. I'm interested in deep learning generally, as well as meta-learning and continual learning more specifically. Much of my PhD has been generously supported by a [Knight-Hennessy Graduate Fellowship][KH].
 
 You can find my CV [here][CV].
 
