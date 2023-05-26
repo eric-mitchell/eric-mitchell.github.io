@@ -5,7 +5,7 @@ authors:
 - Charles Lin
 - Antoine Bosselut
 - Chelsea Finn
-- Christopher D Manning
+- Christopher D. Manning
 
 date: "2022-01-05"
 

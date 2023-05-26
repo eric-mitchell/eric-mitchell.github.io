@@ -1,8 +1,8 @@
 ---
 title: "Meta-Learning Online Adaptation of Language Models"
 authors:
-- Nathan Hu
-- Eric Mitchell
+- Nathan Hu*
+- Eric Mitchell*
 - Christopher D. Manning
 - Chelsea Finn
 

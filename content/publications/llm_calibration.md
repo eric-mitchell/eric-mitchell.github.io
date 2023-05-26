@@ -1,8 +1,8 @@
 ---
 title: "Just Ask for Calibration: Strategies for Eliciting Calibrated Confidence Scores from Language Models Fine-Tuned with Human Feedback"
 authors:
-- Katherine Tian
-- Eric Mitchell
+- Katherine Tian*
+- Eric Mitchell*
 - Allan Zhou
 - Archit Sharma
 - Rafael Rafailov

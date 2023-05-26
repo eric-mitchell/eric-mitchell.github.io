@@ -3,19 +3,19 @@ title: "Enhancing Self-Consistency and Performance of Pretrained Language Models
 
 authors:
 - Eric Mitchell
-- Joseph J Noh
+- Joseph J. Noh
 - Siyan Li
-- William S Armstrong
+- William S. Armstrong
 - Ananth Agarwal
 - Patrick Liu
 - Chelsea Finn
-- Christopher D Manning
+- Christopher D. Manning
 
 date: "2022-10-01"
 
-publication: "EMNLP Oral (<4% submitted papers)"
+publication: "EMNLP (Oral; <4% submitted papers)"
 
 links:
-    pdf: https://ericmitchell.ai/concord.pdf
+    pdf: https://aclanthology.org/2022.emnlp-main.115.pdf
     website: https://ericmitchell.ai/emnlp-2022-concord/
 ---
