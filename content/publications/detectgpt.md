@@ -5,15 +5,15 @@ authors:
 - Eric Mitchell
 - Yoonho Lee
 - Sasha Khazatsky
-- Christopher D Manning
+- Christopher D. Manning
 - Chelsea Finn
 
 date: "2023-01-01"
 
-publication: "Under review"
+publication: "ICML (Oral)"
 
 links:
-    pdf: https://ericmitchell.ai/concord.pdf
-    website: https://ericmitchell.ai/emnlp-2022-concord/
+    pdf: https://arxiv.org/pdf/2301.11305v1.pdf
+    website: https://ericmitchell.ai/detectgpt/
     demo: https://detectgpt.ericmitchell.ai
 ---
