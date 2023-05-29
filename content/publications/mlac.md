@@ -4,7 +4,7 @@ Foundation Models"
 authors:
 - Eric Mitchell*
 - Peter Henderson*
-- Christopher D Manning
+- Christopher D. Manning
 - Dan Jurafsky
 - Chelsea Finn
 
