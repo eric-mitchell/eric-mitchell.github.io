@@ -12,7 +12,7 @@ authors:
 
 date: "2023-05-24"
 
-publication: "Preprint"
+publication: "EMNLP"
 
 links:
     pdf: https://arxiv.org/abs/2305.14975

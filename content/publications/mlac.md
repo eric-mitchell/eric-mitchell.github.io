@@ -2,16 +2,16 @@
 title: "Self-Destructing Models: Increasing the Costs of Harmful Dual Uses in
 Foundation Models"
 authors:
-- Eric Mitchell*
 - Peter Henderson*
+- Eric Mitchell*
 - Christopher D. Manning
 - Dan Jurafsky
 - Chelsea Finn
 
 date: "2022-05-31"
 
-publication: "ICML Workshop on Pre-training"
+publication: "AAAI/ACM Conference on AI, Ethics, and Society"
 links:
-    pdf: https://openreview.net/pdf?id=fYPC0TnrItR
+    pdf: https://dl.acm.org/doi/10.1145/3600211.3604690
 
 ---

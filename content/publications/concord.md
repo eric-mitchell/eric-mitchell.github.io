@@ -13,7 +13,7 @@ authors:
 
 date: "2022-10-01"
 
-publication: "EMNLP (Oral; <4% submitted papers)"
+publication: "EMNLP (Oral)"
 
 links:
     pdf: https://aclanthology.org/2022.emnlp-main.115.pdf

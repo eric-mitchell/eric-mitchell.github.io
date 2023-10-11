@@ -22,7 +22,7 @@ affiliations:
         email: "eric.mitchell@cs.stanford.edu"
 ---
 
-I am a fourth-year PhD student in Stanford's CS department, where I'm fortunate to be advised by [Chelsea Finn][1] and [Christopher D. Manning][2]. The goal of my research is to build algorithms that make foundation models, particularly language models, safer and easier to use. I'm interested in deep learning generally, as well as meta-learning and continual learning more specifically. Much of my PhD has been generously supported by a [Knight-Hennessy Graduate Fellowship][KH].
+I am a fourth-year PhD student in Stanford's CS department, where I'm fortunate to be advised by [Chelsea Finn][1] and [Christopher D. Manning][2]. The goal of my research is to make foundation models, particularly language models, a safer and easier to use technology. Much of my PhD has been generously supported by a [Knight-Hennessy Graduate Fellowship][KH].
 
 You can find my CV [here][CV].
 
@@ -30,7 +30,7 @@ In the summer of 2022, I was a research scientist intern at DeepMind in London, 
 
 Before my PhD, I was a research engineer at [Samsung's AI Center][5] in New York City, where I learned constantly from [Volkan Isler][6], [Daniel D. Lee][7], and many other wonderful (and patient) people. As an undergraduate, I completed my thesis under the guidance of [H. Sebastian Seung][10] after many hours in the [Seung Lab][8] at the [Princeton Neuroscience Institute][9]. I also competed for [Princeton's varsity men's golf team][X].
 
-In my free time, I make music for guitar and voice. I enjoy the outdoors, particularly golf courses and mountains.
+In my free time, I make music for guitar and voice. I enjoy the outdoors, particularly playing golf, exploring mountains, and SCUBA diving.
 
 
 [1]: https://ai.stanford.edu/~cbfinn/
