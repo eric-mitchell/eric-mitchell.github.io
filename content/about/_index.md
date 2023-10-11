@@ -17,7 +17,7 @@ socials:
 
 affiliations:
     - affiliation:
-        title: "Ph.D. Student"
+        title: "Ph.D. Candidate"
         name: "Stanford University"
         email: "eric.mitchell@cs.stanford.edu"
 ---
