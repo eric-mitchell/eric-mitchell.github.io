@@ -13,6 +13,6 @@ publication: "ICLR"
 
 links:
     pdf: https://arxiv.org/abs/2110.11309
-    repo: https://github.com/eric-mitchell/mend
+    code: https://github.com/eric-mitchell/mend
     website: https://sites.google.com/view/mend-editing
 ---

@@ -14,4 +14,5 @@ publication: "NeurIPS (Oral)"
 
 links:
     pdf: https://arxiv.org/abs/2305.18290
+    code: https://github.com/eric-mitchell/direct-preference-optimization
 ---

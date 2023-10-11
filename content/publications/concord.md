@@ -17,5 +17,6 @@ publication: "EMNLP (Oral)"
 
 links:
     pdf: https://aclanthology.org/2022.emnlp-main.115.pdf
+    code: https://github.com/eric-mitchell/concord
     website: https://ericmitchell.ai/emnlp-2022-concord/
 ---
