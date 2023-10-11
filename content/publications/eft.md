@@ -1,5 +1,5 @@
 ---
-title: "Direct Preference Optimization: Your Language Model is Secretly a Reward Model"
+title: "An Emulator for Fine-Tuning Large Language Models using Small Language Models"
 authors:
 - Eric Mitchell
 - Rafael Rafailov
