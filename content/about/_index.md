@@ -24,7 +24,7 @@ affiliations:
 
 **Fall 2023 update: I am going on both the industry and academic job markets very shortly (late 2023, early 2024). If you think my experience would be a good fit for your organization or institution, reach out!**
 
-I am a final-year PhD student in Stanford's CS department, where I'm fortunate to be advised by [Chelsea Finn][1] and [Christopher D. Manning][2]. The goal of my research is to make foundation models, particularly language models, a safer and easier to use technology. Much of my PhD has been generously supported by a [Knight-Hennessy Graduate Fellowship][KH].
+I am a final-year PhD student in Stanford's CS department, where I'm fortunate to be advised by [Chelsea Finn][1] and [Christopher D. Manning][2]. The goal of my research is to make foundation models, particularly language models, a safer and easier to use technology. Much of my PhD has been generously supported by a [Knight-Hennessy Graduate Fellowship][KH] and a Stanford Accelerator for Learning grant for [Generative AI for the Future of Learning][genai].
 
 You can find my CV [here][CV].
 
@@ -47,6 +47,7 @@ In my free time, I make music for guitar and voice. I enjoy the outdoors, partic
 [10]: http://pni.princeton.edu/faculty/h.-sebastian-seung
 
 [KH]: https://knight-hennessy.stanford.edu
+[genai]: https://acceleratelearning.stanford.edu/story/generative-ai-seed-grants/
 [A]: https://iclr.cc
 [B]: https://icml.cc
 [C]: https://aaai.org
