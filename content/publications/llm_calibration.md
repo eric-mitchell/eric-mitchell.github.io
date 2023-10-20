@@ -15,5 +15,5 @@ date: "2023-05-24"
 publication: "EMNLP"
 
 links:
-    pdf: https://arxiv.org/abs/2305.14975
+    paper: https://arxiv.org/abs/2305.14975
 ---

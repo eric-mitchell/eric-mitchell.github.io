@@ -11,5 +11,5 @@ date: "2021-01-01"
 publication: "AAAI"
 
 links:
-    pdf: https://arxiv.org/abs/2006.07981
+    paper: https://arxiv.org/abs/2006.07981
 ---

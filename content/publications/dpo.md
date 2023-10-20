@@ -13,6 +13,6 @@ date: "2023-04-24"
 publication: "NeurIPS (Oral)"
 
 links:
-    pdf: https://arxiv.org/abs/2305.18290
+    paper: https://arxiv.org/abs/2305.18290
     code: https://github.com/eric-mitchell/direct-preference-optimization
 ---

@@ -13,7 +13,7 @@ date: "2022-01-01"
 publication: "CoRL"
 
 links:
-    pdf: https://arxiv.org/abs/2109.01115
+    paper: https://arxiv.org/abs/2109.01115
     repo: https://github.com/suraj-nair-1/lorl
     website: https://sites.google.com/view/robotlorl
 ---

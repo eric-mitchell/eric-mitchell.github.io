@@ -12,5 +12,5 @@ date: "2023-09-28"
 publication: "Preprint, under review"
 
 links:
-    pdf: https://ericmitchell.ai/eft.pdf
+    paper: https://arxiv.org/abs/2310.12962
 ---

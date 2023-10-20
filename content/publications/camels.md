@@ -11,6 +11,6 @@ date: "2023-05-25"
 publication: "EMNLP"
 
 links:
-    pdf: https://arxiv.org/abs/2305.15076
+    paper: https://arxiv.org/abs/2305.15076
     code: https://github.com/zixia314/CaMeLS/tree/main
 ---
